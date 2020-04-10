@@ -19,13 +19,16 @@ a {
 #logo, .project-img {
     max-height: 300px;
 }
-
+.img-fluid{
+    max-width: 100%;
+    height: auto;
+   
+}
 #fork img{
     height: 25px;
     margin-bottom: 25px;
     filter: invert(1);
 }
-
 #sep {
     height: 75px;
 }
